@@ -7,7 +7,8 @@
       <!-- 
 
         FALTOU VALIDAÇÃO;
-        PODERIA NÃO PERMITIR CAMBIO DE UMA MOEDA IGUAL A OUTRA
+          Exemplo: PODERIA NÃO PERMITIR CAMBIO DE UMA MOEDA IGUAL A OUTRA
+        Poderia colocar máscaras de moeda
         PODERIA SÓ MOSTRAR O VALOR DA CONVERSAO E PERGUNTAR SE DESEJA SALVAR
 
       -->
@@ -56,6 +57,7 @@
             </b-form-select-option>
           </b-form-select>
         </div>
+        
       </div>
 
       <b-button type="submit" block variant="primary" class="bg-primary">Converter</b-button>
