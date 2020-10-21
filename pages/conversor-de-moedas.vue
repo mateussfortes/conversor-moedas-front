@@ -79,8 +79,8 @@
             :key="currencyConverterListIndex"
           >
             <td>{{ currencyConverter.currency_value }}</td>
-            <td>{{ currencyConverter.currency_to }}</td>
             <td>{{ currencyConverter.currency_from }}</td>
+            <td>{{ currencyConverter.currency_to }}</td>
             <td>{{ currencyConverter.currency_converter_value }}</td>
           </tr>
         </tbody>
